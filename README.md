@@ -1,4 +1,7 @@
 # openCV_tutorial
 
 20210616
-01_read_and_write_images
+
+01_Read_and_Write_Images
+
+02_Crop_Resize_Flip_and_Modify_Pixels
