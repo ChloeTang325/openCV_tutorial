@@ -5,3 +5,5 @@
 01_Read_and_Write_Images
 
 02_Crop_Resize_Flip_and_Modify_Pixels
+
+03_Annotate_Image
