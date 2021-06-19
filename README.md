@@ -11,3 +11,13 @@ Practices for opencv python course from: https://www.youtube.com/watch?v=P4Z8_qe
 03_Annotate_Image
 
 04_Image_Mathematical_Operations
+
+20210619
+
+05_Accessing_the_Camera
+
+06_Video_Writing
+
+07_Image_Filtering_Edge_Detection
+
+08_Image_Fetaures_and_Alignment
