@@ -21,3 +21,11 @@ Practices for opencv python course from: https://www.youtube.com/watch?v=P4Z8_qe
 07_Image_Filtering_Edge_Detection
 
 08_Image_Fetaures_and_Alignment
+
+20210620
+
+09_Panorama
+
+10_HDR_Images
+
+11_Object_Tracking
